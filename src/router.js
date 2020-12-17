@@ -13,6 +13,7 @@ import Governance from './views/governance.vue';
 import Roadmap from './views/roadmap.vue';
 import XbtInvestmentFund from './views/xbt_investment_fund.vue';
 import Cryptounicorns from './views/cryptounicorns.vue';
+import Sales from './views/sales.vue';
 
 Vue.use(Router);
 
@@ -82,6 +83,11 @@ export default new Router({
       path: '/signup',
       name: 'signup',
       component: Signup
+    },
+    {
+      path: '/sales',
+      name: 'sales',
+      component: Sales
     }
   ],
   mode: 'history'

@@ -42,6 +42,9 @@
               <li @click="closeMenu">
                 <router-link to="/xbt-investment-fund/">Investment Fund</router-link>
               </li>
+              <li @click="closeMenu">
+                <router-link to="/sales/">Sales</router-link>
+              </li>
             </ul>
             <ul class="list-reset header-nav-right">
               <c-button tag="a" class="button button-primary button-sm" color="primary" wide-mobile href="/buy">

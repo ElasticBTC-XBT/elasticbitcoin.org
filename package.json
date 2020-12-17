@@ -22,6 +22,7 @@
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
+    "vue-sweetalert2": "^4.1.1",
     "yarn": "^1.22.10"
   },
   "devDependencies": {
