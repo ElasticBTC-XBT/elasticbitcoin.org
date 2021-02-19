@@ -45,6 +45,9 @@
                             <li @click="closeMenu">
                                 <router-link to="/xbt-investment-fund/">{{ $t("header.investment_fund") }}</router-link>
                             </li>
+                            <li @click="closeMenu">
+                                <a href="https://www.xbn.finance">XBN</a>
+                            </li>
                         </ul>
                         <ul class="list-reset header-nav-right">
                             <c-button tag="a" class="button button-primary button-sm" color="primary" wide-mobile
