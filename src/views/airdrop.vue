@@ -18,8 +18,11 @@
             <b>Please make sure you are in ETH Network</b><br/>
             <b>To get XBT, please retweet this <a href="https://twitter.com/elasticbitcoin/status/1362393190930673673" target="_blank">tweet</a>,
               follow <a href="https://twitter.com/elasticbitcoin" target="_blank">XBT Twitter</a>,
-              and join <a href="https://t.me/elasticbitcoinxbt" target="_blank">XBT Telegram</a> and <a href="https://t.me/elasticbitcoin" target="_blank"> Channel</a>
+              and join <a href="https://t.me/elasticbitcoinxbt" target="_blank">XBT Telegram</a>.
 
+
+            </b><br/>
+            <b>Hot<img src="https://i.imgur.com/jmPNlwr.png" style="width: 30px;  display: inline"/>: Now you can buy XBT at discounted price <a href="/sales/" target="_blank">here</a>.
             </b>
           </p>
 
