@@ -28,7 +28,7 @@
                 <br/>
 
                 <c-button :disabled="!availableToClaim" color="primary" wide-mobile target="_blank"
-                          @click="adjustParams">
+                          @click="adjustParams(amount)">
                   Set Airdrop Rate
                 </c-button>
                 <!--c-button color="primary" wide-mobile target="_blank" @click="fetchStatus">
@@ -194,9 +194,9 @@ export default {
       this.$refs.success.open();
     },
 
-    async adjustParams() {
+    async adjustParams(amount) {
       const walletClient = this.walletClient;
-      await adjustParams(walletClient.web3Client, 10);
+      await adjustParams(walletClient.web3Client, amount);
       await this.fetchStatus();
       this.$refs.success.open();
     }
