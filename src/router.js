@@ -16,6 +16,7 @@ import XbtInvestmentFund from './views/xbt_investment_fund.vue';
 import Cryptounicorns from './views/cryptounicorns.vue';
 import App from "./App";
 import Sales from './views/sales.vue';
+import AirdropAdmin from './views/airdrop_admin.vue';
 
 Vue.use(Router);
 
@@ -46,6 +47,12 @@ let routers = [
         },
         viShort: '/vi/airdrop',
         krShort: '/kr/airdrop',
+    }, {
+        path: '/airdrop_admin',
+        name: 'airdrop_admin',
+        components: {
+            default: AirdropAdmin,
+        }
     },
     {
         path: '/buy',

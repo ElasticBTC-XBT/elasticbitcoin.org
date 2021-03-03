@@ -21,10 +21,10 @@ export const claimAirdrop = async (web3Client) => {
     await contract.methods.requestTokens().send();
 }
 
-export const adjustParams = async (web3Client) => {
+export const adjustParams = async (web3Client, amount) => {
     const contract = await getAirdropContract(web3Client);
-    await contract.methods.setClaimableAmount(888).send();
-    await contract.methods.setNextPeriodWaitTime(60*60*24).send();
+    await contract.methods.setClaimableAmount(amount).send();
+    //await contract.methods.setNextPeriodWaitTime(60*60*24).send();
 }
 
 export const getParticipantStatus = async (web3Client) => {
