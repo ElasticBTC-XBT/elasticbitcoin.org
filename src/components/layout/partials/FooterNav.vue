@@ -80,6 +80,17 @@
         </a>
       </li>
       <li>
+        <a data-control-name="nav.homepage" href="https://www.coingecko.com/en/coins/elastic-bitcoin" target="_blank"
+           class="mg-t-8 ember-view">
+          <c-image
+              :src="require('@/assets/images/coingecko.png')"
+              alt="coingecko XBT"
+              :height="24"
+          />
+          <span class="ml-8">Coingecko</span>
+        </a>
+      </li>
+      <li>
         <a data-control-name="nav.homepage" href="https://v2.unicrypt.network/pair/0x080cf470ea91532bf5e313acc60c4b0d029409d4" target="_blank"
            class="mg-t-8 ember-view">
           <c-image
