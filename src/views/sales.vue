@@ -52,8 +52,13 @@
           </div>
 
           <div v-else>
-            <h1 class="center-content">{{$t('sale.sale_over')}}</h1>
-            <p class="center-content">{{$t('please_visit')}} <a href="https://t.me/elasticbitcoinxbt" target="_blank">{{$t('channel')}}</a> {{$t('for_further_information')}}</p>
+            <h2 class="center-content">
+
+              <span style="font-size: 17px;">{{$t('sale.sale_over')}}</span>
+              <br/>You can trade XBT on
+                <a href="https://info.uniswap.org/token/0x64fb96d0395f6bf105f35233911e3df2c5bf4ce8" target="_blank">
+                Uniswap</a> </h2>
+
           </div>
         </div>
       </div>
