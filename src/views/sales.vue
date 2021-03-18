@@ -147,7 +147,7 @@ export default {
   computed: {
     isSaleOver() {
       const minAvailableSale = this.saleSupply / this.saleRate;
-      return minAvailableSale < this.minBidAmount;
+      return  minAvailableSale < this.minBidAmount;
     },
     pageTitle() {
       return this.$t('sales.page_title')
