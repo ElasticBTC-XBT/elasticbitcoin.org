@@ -57,7 +57,7 @@ export default {
     },
     minBidAmount: {
       type: Number,
-      default: 0
+      default: 0.1
     },
     maxBidAmount: {
       type: Number,
@@ -99,7 +99,7 @@ export default {
   },
   data() {
     return {
-      ethPurchaseAmount: 0.01,
+      ethPurchaseAmount: 0.1,
       submitted: false
     }
   },
