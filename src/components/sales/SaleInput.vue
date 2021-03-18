@@ -78,7 +78,7 @@ export default {
       return this.maxBidAmount < actualMaxBid ? this.maxBidAmount : actualMaxBid;
     },
     displayedSaleRate() {
-      return numeral(this.saleRate * this.ethPurchaseAmount).format('0,0.00')
+      return numeral(this.saleRate * this.ethPurchaseAmount).format('0,0.00000')
     },
     displayedMaxBidAmount() {
       return numeral(this.actualMaxBid).format('0,0.000')
