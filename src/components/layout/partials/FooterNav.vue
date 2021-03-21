@@ -102,7 +102,7 @@
         </a>
       </li>
       <li>
-        <a data-control-name="nav.homepage" href="https://v2.unicrypt.network/pair/0x080cf470ea91532bf5e313acc60c4b0d029409d4" target="_blank"
+        <a data-control-name="nav.homepage" href="https://unicrypt.network/amm/uni/token/0x64fB96d0395f6bf105F35233911e3dF2C5bf4Ce8" target="_blank"
            class="mg-t-8 ember-view">
           <c-image
               :src="require('@/assets/images/black_wings.7e08b933.svg')"
