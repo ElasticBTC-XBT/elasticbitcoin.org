@@ -14,7 +14,7 @@
                     transform="translate(35.564 80.269)" fill="#979695"/>
             </g>
           </svg>
-          <span class="ml-8">Etherscan</span>
+<!--          <span class="ml-8">Etherscan</span>-->
         </a>
       </li>
       <li>
@@ -22,7 +22,7 @@
            href="https://www.dextools.io/app/uniswap/pair-explorer/0x080cf470ea91532bf5e313acc60c4b0d029409d4"
            target="_blank">
           <c-image width="24" height="24" :src="require('@/assets/images/dextools.png')"></c-image>
-          <span class="ml-8">DexTools</span>
+<!--          <span class="ml-8">DexTools</span>-->
         </a>
       </li>
       <li>
@@ -64,7 +64,7 @@
                 fill="black"/>
           </svg>
 
-          <span class="ml-4">Uniswap</span>
+<!--          <span class="ml-4">Uniswap</span>-->
         </a>
 
       </li>
@@ -76,7 +76,18 @@
               alt="Features split image 01"
               :height="24"
           />
-          <span class="ml-8">Team Lock</span>
+<!--          <span class="ml-8">Team Lock</span>-->
+        </a>
+      </li>
+      <li>
+        <a data-control-name="nav.homepage" href="https://www.livecoinwatch.com/price/ElasticBitcoin-XBT" target="_blank"
+           class="mg-t-8 ember-view">
+          <c-image
+              :src="require('@/assets/images/livecoinwatch.jpg')"
+              alt="livecoinwatch XBT"
+              :height="24"
+          />
+<!--          <span class="ml-8">Livecoinwatch</span>-->
         </a>
       </li>
       <li>
@@ -87,7 +98,7 @@
               alt="coingecko XBT"
               :height="24"
           />
-          <span class="ml-8">Coingecko</span>
+<!--          <span class="ml-8">Coingecko</span>-->
         </a>
       </li>
       <li>
@@ -98,7 +109,7 @@
               alt="Features split image 01"
               :height="24"
           />
-          <span class="ml-8">Unicrypt</span>
+<!--          <span class="ml-8">Unicrypt</span>-->
         </a>
       </li>
 
