@@ -43,7 +43,7 @@ let routers = [
         path: '/airdrop',
         name: 'airdrop',
         components: {
-            default: Airdrop,
+            default: Sales,
         },
         viShort: '/vi/airdrop',
         krShort: '/kr/airdrop',
