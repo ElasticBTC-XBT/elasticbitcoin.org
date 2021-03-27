@@ -10,7 +10,7 @@ import Staking from './views/staking.vue';
 import Signup from './views/Signup.vue';
 import Learn from './views/learn.vue';
 import Governance from './views/governance.vue';
-import Airdrop from './views/airdrop.vue';
+// import Airdrop from './views/airdrop.vue';
 import Roadmap from './views/roadmap.vue';
 import XbtInvestmentFund from './views/xbt_investment_fund.vue';
 import Cryptounicorns from './views/cryptounicorns.vue';

@@ -336,19 +336,15 @@
       "desc": "Officially launched",
       "category": "announcement"
     },
-    "item_5": {
-      "title": "Enable Staking",
-      "desc": "Enable staking XBT liquidity tokens",
-      "category": "development"
-    },
+
     "item_6": {
       "title": "Publish whitepaper",
       "desc": "The team will launch XBT Whitepaper for public audiences",
       "category": "research"
     },
     "item_7": {
-      "title": "Public launch",
-      "desc": "Launch XBT Foundation Fund",
+      "title": "AI Trading Public launch",
+      "desc": "Launch XBT AI Trading Fund",
       "category": "launch"
     },
     "item_8": {

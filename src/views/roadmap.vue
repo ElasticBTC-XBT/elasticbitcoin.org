@@ -59,23 +59,7 @@
                             class="active"
                     />
 
-                    <vue-timeline-update
-                            :dateString="getDateString('2021-01-31')"
-                            :date="new Date('2021-01-31')"
-                            :title="$t('road_map.item_5.title')"
-                            :description="$t('road_map.item_5.desc')"
-                            :category="$t('road_map.item_5.category')"
-                            color="black"
-                    />
 
-                    <vue-timeline-update
-                            :dateString="getDateString('2021-03-01')"
-                            :date="new Date('2021-03-01')"
-                            :title="$t('road_map.item_6.title')"
-                            :description="$t('road_map.item_6.desc')"
-                            :category="$t('road_map.item_6.category')"
-                            color="black"
-                    />
 
                     <vue-timeline-update
                             :dateString="getDateString('2021-04-17')"
@@ -83,15 +67,6 @@
                             :title="$t('road_map.item_7.title')"
                             :description="$t('road_map.item_7.desc')"
                             :category="$t('road_map.item_7.category')"
-                            color="black"
-                    />
-
-                    <vue-timeline-update
-                            :dateString="getDateString('2021-05-15')"
-                            :date="new Date('2021-05-15')"
-                            :title="$t('road_map.item_8.title')"
-                            :description="$t('road_map.item_8.desc')"
-                            :category="$t('road_map.item_8.category')"
                             color="black"
                     />
 
