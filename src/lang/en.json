@@ -64,8 +64,8 @@
     "hero_split": {
       "title_1": "XBT · Elastic Bitcoin",
       "desc_1": "A rebasing bitcoin cryptocurrency runs on ethereum network.",
-      "desc_2": "It's time to know about XBT, it's stabilized to Bitcoin's price by utilized the power of Ethereum's Smart Contract to adjust supply based on market condition.",
-      "desc_3": "Price of $XBT will be equal to $BTC after 100 days rebasing.",
+      "desc_2": "It's time to know about XBT, it's utilizing the power of Ethereum's Smart Contract to adjust supply based on market condition with the goal to be the first coin to reach 1 000 000 USD.",
+      "desc_3": "Price of $XBT has reach 58000 USD ( ~ 1 $BTC) after 100 days rebasing. Now XBT AI Trading Bot will buy-back more XBT to make it reach 1 million USD",
       "buy_xbt": "Buy XBT now"
     },
     "features_tiles": {
@@ -80,11 +80,11 @@
           "desc": "To avoid price manipulation, XBT rebasing is randomized with lag factor. XBT will reach a supply-price equilibrium, the volatility is in the token supply, not the price."
         },
         "item_3": {
-          "title": "Price target of 1 $BTC",
-          "desc": "$XBT is designed to maintain its base price target of 1 $BTC after 100 days."
+          "title": "Price target of 1 million USD",
+          "desc": "$XBT is designed to maintain its base price target of 1 million USD."
         },
         "item_4": {
-          "title": "With more holders, XBT is still equal to $BTC but has the bigger market cap",
+          "title": "With more holders, XBT can be higher than 1 $BTC",
           "desc": "XBT Holders own a percentage of the network. Their holding values rise as market cap rises."
         },
         "item_5": {
@@ -128,7 +128,7 @@
       "title_1": "Adaptive Supply",
       "title_2": "Risk diversification",
       "title_3": "A trading instrument",
-      "desc_1": "The number of XBT you own change everyday so that the price of XBT will reach BTC price in 100 days. Your percent ownership of the XBT network remains fixed no matter how supply changes.",
+      "desc_1": "The number of XBT you own change everyday so that the price of XBT has reached BTC price in 100 days. Your percent ownership of the XBT network remains fixed no matter how supply changes.",
       "desc_2": "This reduce risk of correlation of Altcoins (such as ETH, LINK...) and Bitcoin in your porfolio because their is 30 days lag between XBT's and BTC's prices.",
       "desc_3": "As a trading instrument, XBT has many advantages, own XBT you can catch the hype of Bitcoin's price growth, but also reduce the risk when Bitcoin takes quick dive because of lag factor."
     },
